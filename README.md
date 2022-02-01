@@ -1,5 +1,5 @@
 # pandaAPIkurs
 Filer &amp; kode til Panda+ API kurs.
 
-NB! Alt er flyttet til PandaAPIkurs
+&amp; NB! Alt er flyttet til https://github.com/pandaAPIkurs/kursdata
 
